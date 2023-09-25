@@ -1,6 +1,8 @@
+# slow solution
 n = input()
 l = input().split()
 l = [int(i) for i in l]
+
 
 op = 0
 for i in range(int(n)-1):
